@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 .DS_Store
 venv/
-haystack_env/
+haystack_env/.DS_Store
